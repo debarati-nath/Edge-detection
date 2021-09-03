@@ -7,6 +7,8 @@
 #Horizontal filter
 
 #Output 
+
+
 Original image -
 
 ![image](https://user-images.githubusercontent.com/81118476/132044202-4fbedbe4-dad6-4b7d-ba54-b0c04220c19b.png)
